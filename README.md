@@ -1,4 +1,7 @@
 # Team_25_Hateful_Memes_Project
- CS 7643 O1 - Fall 2020
+ Th repository contains codes we develped for the final project in CS 7643 O1 - Fall 2020
  
  The baseline model is from @ aryamansriram https://github.com/aryamansriram/Hateful_Memes/blob/master/Hateful_Memes.ipynb
+ 
+ # Running
+ Each jupter notebook can be run independently in Google Colab. Please follow the instructions in the jupter notebook.
